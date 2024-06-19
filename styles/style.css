@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'Lato';
+    src: url(../fonts/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'Latos';
+    src: url(../fonts/Lato-Semibold.ttf);
+}
+
+*{
+    margin: 0;
+    bottom: 0;
+    padding: 0;
+    outline: none;
+    text-decoration: none;
+
+    box-sizing: border-box;
+    font-family: "Lato";
+}
+
+body{
+    background: #222222;
+}
+
+.container{
+    margin: 0 auto;
+    width: 1200px;
+}
+
+.navbar-nav a{
+    color: white;
+}
