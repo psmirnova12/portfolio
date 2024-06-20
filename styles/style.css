@@ -31,3 +31,16 @@ body{
 .navbar-nav a{
     color: white;
 }
+
+.ya .container .foto img{
+    width: 100%;
+}
+
+.ya .container .foto{
+    width: 15%;
+}
+
+.port .container .card{
+    background: #222222;
+    border: 1px solid white;
+}
