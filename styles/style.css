@@ -44,3 +44,9 @@ body{
     background: #222222;
     border: 1px solid white;
 }
+
+.obr .container button{
+    background: #222222;
+    color: white;
+    border: 1px solid white;
+}
